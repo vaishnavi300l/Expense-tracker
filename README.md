@@ -1,2 +1,40 @@
 # Expense-tracker
-A simple web-based Expense Tracker built using Spring Boot and React. This application allows users to add, view, and manage their daily expenses efficiently. It provides REST APIs for backend operations and a user-friendly frontend interface for interaction. The project helps in tracking spending habits and managing personal finances effectively.
+# Description & Problem Statement
+
+Managing daily expenses manually can be difficult, unorganized, and error-prone. Many people struggle to track where their money goes, leading to poor budgeting and financial planning.
+
+This Expense Tracker Application is designed to solve this problem by providing a simple and user-friendly platform to track expenses, manage budgets, and analyze spending patterns. It helps users maintain financial discipline by organizing expenses into categories and giving a clear overview through a dashboard.
+
+The application uses a Spring Boot backend with REST APIs to handle data and provide responses, making it scalable and easy to integrate with frontend applications.
+# Features
+Dashboard:
+View total spent amount
+Check remaining budget
+Track today’s expenses
+Monitor total transactions
+Visual representation of spending trends
+Categories Management:
+Create and manage expense categories like:
+Food & Dining
+Transportation
+Shopping
+Bills & Utilities
+Health & Fitness
+Set budget limits for each category
+View budget usage and remaining amount
+Expense Management:
+Add new expenses
+View all expenses
+Track expenses by category
+Settings & Profile:
+Update user profile information
+Export expense data as JSON
+Clear all data (reset functionality)
+CRUD Operations:
+Create → Add expenses and categories
+Read → View expenses, dashboard data, and categories
+Update → Edit categories and data
+Delete → Remove categories or clear all data
+REST API:
+Backend APIs for handling requests and responses
+Example endpoint: /api/status
