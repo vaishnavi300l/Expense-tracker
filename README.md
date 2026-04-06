@@ -52,13 +52,14 @@ Example endpoint: /api/status
 - Maven installed
 - IDE (IntelliJ / Eclipse / VS Code)
 ## Steps to Run:
-1.Clone the repository:
-      git clone https://github.com/your-username/expense-tracker.git
-2.Navigate to project folder:
-      cd expense-tracker
+
+1.Clone the repository:  git clone https://github.com/your-username/expense-tracker.git
+      
+2.Navigate to project folder: cd expense-tracker
 3.Run the application:
 - Open in IDE
 - Run DemoApplication.java
+- 
 4.Access the application:
 - Backend runs on:
 http://localhost:8080
