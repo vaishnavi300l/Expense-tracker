@@ -13,7 +13,7 @@ Check remaining budget
 Track today’s expenses
 Monitor total transactions
 Visual representation of spending trends
-Categories Management:
+- Categories Management:
 Create and manage expense categories like:
 Food & Dining
 Transportation
@@ -22,19 +22,35 @@ Bills & Utilities
 Health & Fitness
 Set budget limits for each category
 View budget usage and remaining amount
-Expense Management:
+- Expense Management:
 Add new expenses
 View all expenses
 Track expenses by category
-Settings & Profile:
+- Settings & Profile:
 Update user profile information
 Export expense data as JSON
 Clear all data (reset functionality)
-CRUD Operations:
+- CRUD Operations:
 Create → Add expenses and categories
 Read → View expenses, dashboard data, and categories
 Update → Edit categories and data
 Delete → Remove categories or clear all data
-REST API:
+- REST API:
 Backend APIs for handling requests and responses
 Example endpoint: /api/status
+
+# Tech Stack
+- Backend: Java, Spring Boot
+- Build Tool: Maven
+- API: RESTful APIs
+- Data Format: JSON
+- Testing: JUnit
+
+# Setup & Installation
+Prerequisites:
+- Java 17 or higher
+- Maven installed
+- IDE (IntelliJ / Eclipse / VS Code)
+- Steps to Run
+- Clone the repository
+      git clone https://github.com/your-username/expense-tracker.git
