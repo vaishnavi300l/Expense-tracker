@@ -47,11 +47,11 @@ Example endpoint: /api/status
 - Testing: JUnit
 
 ## Setup & Installation
-Prerequisites:
+**Prerequisites:**
 - Java 17 or higher
 - Maven installed
 - IDE (IntelliJ / Eclipse / VS Code)
-Steps to Run:
+**Steps to Run:**
 1.Clone the repository:
       git clone https://github.com/your-username/expense-tracker.git
 2.Navigate to project folder:
