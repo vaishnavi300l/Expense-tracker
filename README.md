@@ -55,7 +55,7 @@ Example endpoint: /api/status
 
 1.Clone the repository:  git clone https://github.com/your-username/expense-tracker.git
       
-2.Navigate to project folder: cd expense-tracker
+2.Navigate to project folder:    cd expense-tracker
 
 3.Run the application:
 - Open in IDE
