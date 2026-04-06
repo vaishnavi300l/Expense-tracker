@@ -1,12 +1,12 @@
 # Expense-tracker
-# Description & Problem Statement
+## Description & Problem Statement
 
 Managing daily expenses manually can be difficult, unorganized, and error-prone. Many people struggle to track where their money goes, leading to poor budgeting and financial planning.
 
 This Expense Tracker Application is designed to solve this problem by providing a simple and user-friendly platform to track expenses, manage budgets, and analyze spending patterns. It helps users maintain financial discipline by organizing expenses into categories and giving a clear overview through a dashboard.
 
 The application uses a Spring Boot backend with REST APIs to handle data and provide responses, making it scalable and easy to integrate with frontend applications.
-# Features
+## Features
 - Dashboard:
 View total spent amount
 Check remaining budget
@@ -39,14 +39,14 @@ Delete → Remove categories or clear all data
 Backend APIs for handling requests and responses
 Example endpoint: /api/status
 
-# Tech Stack
+## Tech Stack
 - Backend: Java, Spring Boot
 - Build Tool: Maven
 - API: RESTful APIs
 - Data Format: JSON
 - Testing: JUnit
 
-# Setup & Installation
+## Setup & Installation
 Prerequisites:
 - Java 17 or higher
 - Maven installed
@@ -62,5 +62,5 @@ Run the application:
 Access the application:
 Backend runs on:
 http://localhost:8080
-Test API:
+- Test API:
 http://localhost:8080/api/status
