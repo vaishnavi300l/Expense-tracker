@@ -7,7 +7,7 @@ This Expense Tracker Application is designed to solve this problem by providing 
 
 The application uses a Spring Boot backend with REST APIs to handle data and provide responses, making it scalable and easy to integrate with frontend applications.
 # Features
-Dashboard:
+- Dashboard:
 View total spent amount
 Check remaining budget
 Track today’s expenses
