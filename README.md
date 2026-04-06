@@ -51,6 +51,16 @@ Prerequisites:
 - Java 17 or higher
 - Maven installed
 - IDE (IntelliJ / Eclipse / VS Code)
-- Steps to Run
-- Clone the repository
+Steps to Run:
+- Clone the repository:
       git clone https://github.com/your-username/expense-tracker.git
+- Navigate to project folder:
+      cd expense-tracker
+Run the application:
+- Open in IDE
+- Run DemoApplication.java
+Access the application:
+Backend runs on:
+http://localhost:8080
+Test API:
+http://localhost:8080/api/status
